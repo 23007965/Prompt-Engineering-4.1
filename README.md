@@ -9,6 +9,17 @@ Develop a scenario-based report that demonstrates how diverse prompting techniqu
 
 # Algorithm:
 
+1.Collect user preferences: destination, duration, interests, and budget.
+
+2.Apply different prompt techniques: zero-shot, role-based, few-shot, chain-of-thought.
+
+3.Generate AI outputs for personalized travel plans.
+
+4.Compare responses from ChatGPT and Gemini.
+
+5.Analyze creativity, contextual relevance, and user experience.
+
+6.Summarize findings.
 
 
 # output
